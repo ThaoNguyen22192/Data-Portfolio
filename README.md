@@ -1,6 +1,9 @@
 # 📌 Data-Portfolio
 This is Thao Nguyen's Data Portfolio...
-## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
-- [How to Create New Repository?](#how-to-create-new-repository)
+## 📚 Table of Contents
+- [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
+- [Katie's Guides](#katies-guides)
+
+# SQL
