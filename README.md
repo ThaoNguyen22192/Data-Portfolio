@@ -1,4 +1,4 @@
-# Data-Portfolio
+# 📌 Data-Portfolio
 This is Thao Nguyen's Data Portfolio...
 ## Table of Contents
 - [How to Create Your Profile?](#how-to-create-your-profile)
